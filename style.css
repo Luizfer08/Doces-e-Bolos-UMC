@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+
+  header {
+    background-color: #aca9a7;
+    color: white;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+
+  footer {
+    background-color: #aca9a7;
+    height: 50px;
+    margin-top: auto;
+    color: white;
+
+  }
+  .contato {
+    padding-left: 10px;
+    margin-top: 10px;
+  }
